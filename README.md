@@ -1,4 +1,4 @@
-Here’s a properly formatted and polished `README.md` file for your **SamanthaAI** project:
+
 
 ---
 
