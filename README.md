@@ -94,24 +94,6 @@ npm run dev
 GOOGLE_API_KEY=your-gemini-api-key
 ```
 
-### Frontend (`.env.local`) *(Optional)*
-
-```
-VITE_GEMINI_API_KEY=your-gemini-api-key
-```
-
-> Not required if using backend proxy setup.
-
----
-
-## 📄 Prompts
-
-Place the following prompt files in the `backend/prompts/` directory:
-
-* `compassionate_persona.txt`
-* `reflection_prompt.txt`
-
----
 
 ## 🛠️ Troubleshooting
 
@@ -121,20 +103,6 @@ Place the following prompt files in the `backend/prompts/` directory:
   * That all prompt files are present in the correct directory
 * Ensure the backend (e.g. port `5000`) and frontend (e.g. port `5173`) are running and not blocked
 * Use the provided `.gitignore` to avoid committing sensitive files like `.env`
-
----
-
-## 🚀 Deployment
-
-* **Backend:** Use a WSGI server like [Gunicorn](https://gunicorn.org/)
-
-* **Frontend:** Build for production:
-
-  ```bash
-  npm run build
-  ```
-
-* Serve the build folder with your preferred static file server (e.g., Nginx)
 
 ---
 
