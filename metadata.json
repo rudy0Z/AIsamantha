@@ -1,0 +1,7 @@
+{
+  "name": "SamanthaAI",
+  "description": "A friendly and emotionally intelligent voice assistant that listens to you, understands your emotions, and responds with empathy and warmth.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
