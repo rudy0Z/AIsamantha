@@ -1,15 +1,10 @@
-# 🎭 Samantha AI - Advanced Emotional Voice Assistant
+# 🎭 Samantha AI - Emotional Voice Assistant
 
-*"Her" meets cutting-edge AI technology - A sophisticated voice assistant with emotional intelligence, persistent memory, and dynamic personality adaptation.*
-
-[![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://python.org)
-[![Flask](https://img.shields.io/badge/Flask-2.0+-green.svg)](https://flask.palletsprojects.com/)
-[![AI](https://img.shields.io/badge/AI-Voice%20Synthesis-purple.svg)](https://github.com/coqui-ai/TTS)
-[![Status](https://img.shields.io/badge/Status-Production%20Ready-success.svg)]()
+A sophisticated voice assistant with emotional intelligence, persistent memory, and dynamic personality adaptation.*
 
 ## 🚀 Product Vision
 
-Samantha AI represents the next evolution in personal AI assistants, combining **emotional intelligence**, **persistent memory**, and **natural voice interaction** to create a truly personalized AI companion. Inspired by the movie "Her", this project demonstrates enterprise-grade AI capabilities using state-of-the-art open-source technologies.
+Samantha AI is a personal AI assistants, combining **emotional intelligence**, **persistent memory**, and **natural voice interaction** to create a truly personalized AI companion.Directly inspired from one of my favourite movie "Her", this project demonstrates enterprise-grade AI capabilities using state-of-the-art open-source technologies.
 
 ### 🎯 Key Value Propositions
 
