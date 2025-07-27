@@ -180,7 +180,6 @@ This project demonstrates production-ready AI development practices and is open 
 - Frontend interface enhancements
 - Performance benchmarking
 
-## 📄 License & Acknowledgments
 
 Built with ❤️ using open-source technologies:
 - Coqui TTS for voice synthesis
@@ -189,5 +188,3 @@ Built with ❤️ using open-source technologies:
 - Groq for high-performance LLM inference
 
 ---
-
-*"The best way to predict the future is to invent it."* - This project represents a step toward more empathetic and intelligent AI systems that understand not just what we say, but how we feel.
